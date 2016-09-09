@@ -1,0 +1,11 @@
+{
+  "name": "ty-aurelia-stack",
+  "version": "0.1.0",
+  "description": "Minimalist Aurelia Stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tyler Kayser",
+  "license": "ISC"
+}
