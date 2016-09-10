@@ -22,5 +22,5 @@ Navigate to `http://localhost:3000`, which is configurable.
 
 ## Future Work
 1. Routing
-2. CSS integration (seperate tag or branch)
-3. Express backend server (seperate tag or branch)
+2. CSS integration (separate tag or branch)
+3. ExpressJS backend server (separate tag or branch)
