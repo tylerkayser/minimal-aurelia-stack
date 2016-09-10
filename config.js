@@ -10,7 +10,10 @@ var paths = {
 
 module.exports = {
   devServer: {
-    contentBase: paths.dist
+    contentBase: paths.src,
+    historyApiFallback: {
+      index: '/index.html'
+    }
   },
 
   paths: paths,

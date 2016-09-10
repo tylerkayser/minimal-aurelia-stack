@@ -10,7 +10,7 @@ gulp.task('watch', function(done) {
       if (error) {
         throw new gutil.PluginError('webpack-dev-server', error);
       }
-      gutil.log('[webpack-dev-server]', 'http://localhost:' + config.port + '/webpack-dev-server/index.html');
+      gutil.log('[webpack-dev-server]', 'http://localhost:' + config.port + '/webpack-dev-server/');
       done();
     });
 });
