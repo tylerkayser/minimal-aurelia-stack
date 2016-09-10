@@ -1,7 +1,7 @@
 {
-  "name": "ty-aurelia-stack",
-  "version": "0.1.0",
-  "description": "Minimalist Aurelia Stack",
+  "name": "minimal-aurelia-stack",
+  "version": "0.1.1",
+  "description": "Minimal Aurelia Stack",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -32,10 +32,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tylerkayser/ty-aurelia-stack.git"
+    "url": "git+https://github.com/tylerkayser/minimal-aurelia-stack"
   },
   "bugs": {
-    "url": "https://github.com/tylerkayser/ty-aurelia-stack/issues"
+    "url": "https://github.com/tylerkayser/minimal-aurelia-stack/issues"
   },
-  "homepage": "https://github.com/tylerkayser/ty-aurelia-stack#readme"
+  "homepage": "https://github.com/tylerkayser/minimal-aurelia-stack#readme"
 }
